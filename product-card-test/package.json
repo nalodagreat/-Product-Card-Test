@@ -1,7 +1,7 @@
 {
   "name": "product-card-test",
   "version": "0.1.0",
- "homepage": "https://nalodagreat.github.io/Product-test",
+ "homepage": "https://nalodagreat.github.io/product-card-test",
  "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
